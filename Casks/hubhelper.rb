@@ -1,6 +1,6 @@
 cask "hubhelper" do
   version "0.1.1"
-  sha256 "e7ea33da818eb29f43b924361de6f3a6860e81d0cac22e615b0e31e6036da73c"
+  sha256 "6266bea79b7f1f094a7772836970d1e4a2c43860a4167bc11cc45b59c3eeeec7"
 
   url "https://github.com/nihilok/hubhelper/releases/download/v#{version}/hubhelper.zip"
   name "hubhelper"
